@@ -1,7 +1,9 @@
 **Title**
+
 Coffee Shop Sales Analysis Report
 
 **Introduction**
+
 This report provides a visual summary of coffee shop sales data for a business presumably owned by Hemil Shah. It includes metrics such as total sales, footfall (customer traffic), average bill value, average order value, product category distribution, sales by location, and sales by month.
 
 **Data Summary**
